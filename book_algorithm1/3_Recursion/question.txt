@@ -1,5 +1,0 @@
-listing - wydruk fragmentu kodu źródłowego 
-
-FTP - File transfer protocol
-
-skończyłęm czytać na str. 19
