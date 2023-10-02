@@ -19,13 +19,15 @@ int main()
 
 	list<int> number_members = { 1, 2, 3, 4, 12, 13, 16 };
 
-	cout << "Our club include " << counter(number_members) << " members."
+	cout << "Our club include " << counter(number_members) << " members.";
 
 #endif
 
 	//exercise 3
 
-
+	list<int> elements = { 1, 2, 3, 4, 12, 1447, 16 };
+	int max{ 0 };
+	cout << "Max element of the list is equal " << max_element(elements,max);
 
 
 
