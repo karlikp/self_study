@@ -72,3 +72,6 @@ pair<int, string> binary_sort(vector<pair<int, string>> array, int expected_item
 
 }
 
+void input_file()
+{
+
