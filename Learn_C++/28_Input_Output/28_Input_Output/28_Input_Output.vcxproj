@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="functions_28.2.cpp" />
+    <ClCompile Include="istream_func_28_2.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="ostream_func_28_3.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="ostream_func_28_3.h" />
+    <ClInclude Include="istream_func_28_2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

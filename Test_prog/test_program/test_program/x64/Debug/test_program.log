@@ -1,0 +1,3 @@
+﻿  functions.cpp
+C:\Users\Ryzen\Desktop\self_study\Test_prog\test_program\test_program\functions.cpp(17,6): warning C4101: 'arr': unreferenced local variable
+  test_program.vcxproj -> C:\Users\Ryzen\Desktop\self_study\Test_prog\test_program\x64\Debug\test_program.exe

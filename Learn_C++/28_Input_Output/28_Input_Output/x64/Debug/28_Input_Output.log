@@ -1,5 +1,2 @@
-﻿  functions_28.2.cpp
-  main.cpp
-C:\Users\Ryzen\Desktop\self_study\cpp_course\28_Input_Output\28_Input_Output\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Generating Code...
-  28_Input_Output.vcxproj -> C:\Users\Ryzen\Desktop\self_study\cpp_course\28_Input_Output\x64\Debug\28_Input_Output.exe
+﻿  ostream_func_28_3.cpp
+  28_Input_Output.vcxproj -> C:\Users\Ryzen\Desktop\self_study\Learn_C++\28_Input_Output\x64\Debug\28_Input_Output.exe

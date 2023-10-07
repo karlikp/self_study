@@ -18,12 +18,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="functions_28.2.cpp">
+    <ClCompile Include="istream_func_28_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ostream_func_28_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h">
+    <ClInclude Include="istream_func_28_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ostream_func_28_3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -45,7 +45,7 @@ int max_element(list<int> roll, int max) // max is comparing variable which save
 	}
 }
 
-pair<int, string> binary_sort(vector<pair<int, string>> array, int expected_item, int low_index, int high_index) //low and high should have value 0 
+pair<int, string> binary_sort(vector<string> array, int expected_item, int high_index) //low and high should have value 0 
 {
 	int current_index = ((high_index + 1) - low_index) / 2;
 
@@ -72,6 +72,21 @@ pair<int, string> binary_sort(vector<pair<int, string>> array, int expected_item
 
 }
 
-void input_file()
+void input_file(vector<pair<int, string>> record)
 {
+	ifstream plik;					
+	plik.open("student_list.txt");
+	
+	while (!plik.eof())
+	{
+		string line;
+
+		getline(plik, line);
+
+
+
+
+	}
+
+}
 
