@@ -1,2 +1,7 @@
-﻿  ostream_func_28_3.cpp
-  28_Input_Output.vcxproj -> C:\Users\Ryzen\Desktop\self_study\Learn_C++\28_Input_Output\x64\Debug\28_Input_Output.exe
+﻿  istream_func_28_2.cpp
+  main.cpp
+C:\Users\Ryzen\Desktop\Git_repos\self_study\Learn_C++\28_Input_Output\28_Input_Output\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ryzen\Desktop\Git_repos\self_study\Learn_C++\28_Input_Output\28_Input_Output\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ostream_func_28_3.cpp
+  Generating Code...
+  28_Input_Output.vcxproj -> C:\Users\Ryzen\Desktop\Git_repos\self_study\Learn_C++\28_Input_Output\x64\Debug\28_Input_Output.exe

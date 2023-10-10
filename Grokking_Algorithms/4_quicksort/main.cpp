@@ -25,14 +25,14 @@ int main()
 
 	//exercise 3
 
-	/*list<int> elements = { 1, 2, 3, 4, 12, 1447, 16 };
+	list<int> elements = { 1, 2, 3, 4, 12, 1447, 16 };
 	int max{ 0 };
-	cout << "Max element of the list is equal " << max_element(elements,max);*/
+	cout << "Max element of the list is equal " << max_element(elements,max);
 
 	//ex. 4
 
-	vector<pair<int, string>> group;
-	group.push_back()
+	/*vector<pair<int, string>> group;
+	group.push_back()*/
 
 
 
